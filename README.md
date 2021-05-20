@@ -8,3 +8,5 @@ Just add class .btn-arrow-left or .btn-arrow-right to bootstrap buttons. Use ins
 <button type="button" class="btn btn-primary btn-arrow-right">Middle Button</button>
 <button type="button" class="btn btn-success btn-arrow-right-last">Last Button</button>
 ```
+
+![Preview](https://i.imgur.com/TGlwFtx.png)
