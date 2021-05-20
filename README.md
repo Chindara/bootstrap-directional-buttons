@@ -9,4 +9,5 @@ Just add class .btn-arrow-left or .btn-arrow-right to bootstrap buttons. Use ins
 <button type="button" class="btn btn-success btn-arrow-right-last">Last Button</button>
 ```
 
+## Sample:
 ![Preview](https://i.imgur.com/TGlwFtx.png)
